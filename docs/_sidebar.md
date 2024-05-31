@@ -20,7 +20,7 @@
   - [学期交换 (1)](oversea-program/exchange/README.md)
   - [暑校](oversea-program/summer-school/README.md)
   - [暑研](oversea-program/summer-research/README.md)
-  - [实习/工作](oversea-program/internship/README.md)
+  - [实习](oversea-program/internship/README.md)
 - 学习经验
   - [IELTS (1)](learning/IELTS/README.md)
   - [TOEFL](learning/TOEFL/README.md)

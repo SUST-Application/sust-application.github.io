@@ -22,4 +22,6 @@
 
 微信联系：Room022
 
-果壳小组QQ群：733298426
+投稿组QQ群：972029414
+
+仓库地址：[SUST-Application](https://github.com/SUST-Application)
