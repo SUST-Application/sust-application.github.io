@@ -1,4 +1,6 @@
 - [**主页**](/)
+- 番外
+  - [学校生活 (1)](extra/school-life/README.md)
 - 个人去向总结
   - [电子信息与人工智能学院 (2)](application-result/elec-ai/README.md)
   - [电气与控制工程学院](application-result/elec-control/README.md)
@@ -27,6 +29,5 @@
   - [GRE](learning/GRE/README.md)
   - [四六级](learning/CET/README.md)
   - [学科 (1)](learning/subject/README.md)
-  - [竞赛 (2)](learning/competition/README.md)
+  - [竞赛 (1)](learning/competition/README.md)
   - [学生组织](learning/organization/README.md)
-
