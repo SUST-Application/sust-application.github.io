@@ -29,5 +29,5 @@
   - [GRE](learning/GRE/README.md)
   - [四六级](learning/CET/README.md)
   - [学科 (1)](learning/subject/README.md)
-  - [竞赛 (1)](learning/competition/README.md)
+  - [竞赛 (2)](learning/competition/README.md)
   - [学生组织](learning/organization/README.md)
