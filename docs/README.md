@@ -25,3 +25,7 @@
 投稿组QQ群：972029414
 
 仓库地址：[SUST-Application](https://github.com/SUST-Application)
+
+## 贡献者
+
+<a href="https://github.com/SUST-Application/sust-application.github.io/graphs/contributors?from=2024-05-19&to=2024-06-14&type=c">   <img src="https://contributors-img.web.app/image?repo=SUST-Application/sust-application.github.io" alt="Contributors" /></a>
