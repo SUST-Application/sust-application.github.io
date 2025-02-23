@@ -24,6 +24,7 @@
   - [暑研](oversea-program/summer-research/README.md)
   - [实习](oversea-program/internship/README.md)
 - 学习经验
+  - [科研 (1)](learning/research/README.md)
   - [IELTS (1)](learning/IELTS/README.md)
   - [TOEFL](learning/TOEFL/README.md)
   - [GRE](learning/GRE/README.md)
