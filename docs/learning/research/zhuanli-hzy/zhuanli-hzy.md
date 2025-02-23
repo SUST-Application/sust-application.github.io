@@ -47,16 +47,20 @@
 1.2 那么你需要你的老师帮你进行对接一个专利事务所（必须要有一个人来和你对接）。这个工作人员会给你一些模版让你根据你的专利来按照规范写（这里需要严丝合缝的、客观的阐述。这里涉及非常多的细节问题是撰写专利的最大障碍，但一通百通，如有需要私信我，我可以帮你看看）。如有涉及到绘图的情况，颜色只能是黑白。
 
 2.1手机微信is科大-b网上办事大厅-校团委学生专利登记表-立即申请
+
 ![示例1](./fig4.png)
+
 ![示例2](./fig5.png)
+
 ![示例3](./fig6.png)
+
 
 注意：填写以上申请的时候基本上你已经快把完整稿编写完成、或者已经完成了
 
 2.2你需要有几个打印的。
 以下我会给你例子，但是一般导师也会给你。
 
-**[点击打开例子](https://github.com/SUST-Application/sust-application.github.io/tree/master/docs/learning/research/examples.docx)**
+**[点击打开例子](https://github.com/SUST-Application/sust-application.github.io/tree/master/docs/learning/research/zhuanli-hzy/examples.docx)**
 
 ![示例4](./fig7.png)
 
